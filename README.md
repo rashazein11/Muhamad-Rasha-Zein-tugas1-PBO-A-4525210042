@@ -45,31 +45,27 @@ ditampilkan terpisah.
 
 ### 01 Class
 
-![Hasil run 01 Class](./screenshots/01-class.svg)
+![Hasil run 01 Class](./screenshots/01.png)
 
 ### 02 Constructor
 
-![Hasil run 02 Constructor](./screenshots/02-constructor.svg)
+![Hasil run 02 Constructor](./screenshots/02.png)
 
-### 03 Inheritance — Bangun Datar
+### 03 Inheritance
 
-![Hasil run inheritance bangun datar](./screenshots/03-inheritance-bangun-datar.svg)
-
-### 03 Inheritance — Mahasiswa
-
-![Hasil run inheritance mahasiswa](./screenshots/03-inheritance-mahasiswa.svg)
+![Hasil run inheritance bangun datar](./screenshots/03.png)
 
 ### 04 Polymorphism
 
-![Hasil run 04 Polymorphism](./screenshots/04-polymorphism.svg)
+![Hasil run 04 Polymorphism](./screenshots/04.png)
 
 ### 05 Asosiasi, Agregasi, dan Komposisi
 
-![Hasil run 05 Asosiasi, Agregasi, dan Komposisi](./screenshots/05-asosiasi-komposisi.svg)
+![Hasil run 05 Asosiasi, Agregasi, dan Komposisi](./screenshots/05.png)
 
 ### 06 Abstract Class dan Interface
 
-![Hasil run 06 Abstract Class dan Interface](./screenshots/06-abstract-interface.svg)
+![Hasil run 06 Abstract Class dan Interface](./screenshots/06.png)
 
 ## Materi di setiap folder
 
